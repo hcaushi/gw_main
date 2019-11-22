@@ -1,0 +1,5 @@
+Grid Wars is a proposal for a 2D strategy game. The premise of the game is that the player has a given amount of in-game money to spend placing troops on their side of a battlefield, and can then watch their troops fight enemy troops. There will be ten levels, each of which is increasingly difficult, with either more enemy troops or special troops. While the game is intended to be casual, there can also be a competitive element, as players can get onto a high-score table by spending as little money on a given level as possible.
+
+To play the game, simply launch gw_main.py. The game is best enjoyed with a leaderboard (which requires PyMySQL and MySQL to be installed), although it does not detract from the experience at all if you don't have it!
+
+This game was a result of my A-Level Computer Science project: the full report can be found at https://drive.google.com/file/d/1rYjsqXZ-RG1uerVYSsLQQ5I_ZTHkjSE2/
